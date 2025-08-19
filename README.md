@@ -17,7 +17,7 @@ Visualize EV vs Non-EV adoption trends for better insights
 
 Train a forecasting model to predict EV demand for the next 3 years
 
-Build an interactive website where users can check predictions across different counties
+Build an interactive Streamlit dashboard to check predictions across different counties
 
 
 
@@ -55,7 +55,7 @@ Visualized adoption trends to identify growth patterns
 
 Built and trained a predictive model for EV demand (3-year forecast)
 
-Developed a Streamlit-based website for interactive prediction exploration
+Developed an interactive Streamlit dashboard for prediction exploration
 
 
 
