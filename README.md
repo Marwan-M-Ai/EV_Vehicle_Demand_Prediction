@@ -1,6 +1,6 @@
-#🚗 EV Vehicle Demand Prediction
+# 🚗 EV Vehicle Demand Prediction
 
-##📌 Project Overview
+## 📌 Project Overview
 
 This project was developed as part of my first internship (15 July – 16 August 2025) with Edunet Foundation (Skills4Future) in collaboration with Shell and AICTE. The focus was to combine Artificial Intelligence 🤖, Data Analytics 📊, and Green Skills 🌱 to support sustainability goals.
 
@@ -9,7 +9,7 @@ The main objective of this project is to forecast the demand for Electric Vehicl
 
 ---
 
-##🎯 Objectives
+## 🎯 Objectives
 
 Preprocess raw vehicle registration data into a usable format
 
@@ -23,7 +23,7 @@ Build an interactive website where users can check predictions across different 
 
 ---
 
-##🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 Programming Language: Python 🐍
 
@@ -35,7 +35,7 @@ Approach: Data Preprocessing → Visualization → Model Training → Deployment
 
 ---
 
-##📊 Dataset
+## 📊 Dataset
 
 Source: Vehicle registration data from Washington DC counties
 
@@ -47,7 +47,7 @@ Preprocessed for trend analysis and forecasting tasks
 
 ---
 
-##🚀 Features
+## 🚀 Features
 
 Cleaned & transformed raw data into target variables
 
@@ -61,13 +61,13 @@ Developed a Streamlit-based website for interactive prediction exploration
 
 ---
 
-##🌍 Impact
+## 🌍 Impact
 
 This project demonstrates how AI and Data Analytics can play a vital role in supporting green energy adoption by providing actionable insights into the future demand for EVs.
 
 
 ---
 
-##🙌 Acknowledgment
+## 🙌 Acknowledgment
 
 This project was carried out as part of my internship with Edunet Foundation (Skills4Future) in collaboration with Shell and AICTE.
