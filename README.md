@@ -71,4 +71,3 @@ This project demonstrates how AI and Data Analytics can play a vital role in sup
 🙌 Acknowledgment
 
 This project was carried out as part of my internship with Edunet Foundation (Skills4Future) in collaboration with Shell and AICTE.
-
